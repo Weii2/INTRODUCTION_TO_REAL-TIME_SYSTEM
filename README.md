@@ -1,2 +1,2 @@
 # INTRODUCTION_TO_REAL-TIME_SYSTEM
-INTRODUCTION_TO_REAL-TIME_SYSTEM project - CNN
+Introduction to Real-Time System project - CNN
